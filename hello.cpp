@@ -6,8 +6,18 @@ void fun(){
     return;
 }
 int main(){
+    string apple;
+
+
+
     cout << "Hello World in C++ " <<endl<< "Let's start something new. ❤" << endl;
+    cin>>apple;
+
+    cout<<"Number of apples: "<<apple<<endl;
+
     fun();
     return 0;
 }
+
+
 
