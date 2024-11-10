@@ -26,11 +26,7 @@ int main(){
 
     num2+=3;
     cout<<num2<<endl; 
-
-
-
-
-
+    
 
     //Logical Operators
     //bool a = true;
